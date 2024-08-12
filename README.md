@@ -20,7 +20,7 @@ This project involves automating the 'Add to Cart' functionality on the Amazon w
 8-Click the 'Add to Cart' button. <br>
 9-Click on the logo. <br>
 
-https://github.com/user-attachments/assets/25771254-c799-4e1b-a3e4-0c0f689b19bd
+https://github.com/user-attachments/assets/6048ab94-0a50-4d89-a735-3ed7a48ddf58
 
 ![Ekran Alıntısı](https://github.com/user-attachments/assets/150a1a16-7f03-44ba-806c-9c0e3c11abe8)
 
