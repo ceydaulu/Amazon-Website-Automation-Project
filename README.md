@@ -1,10 +1,10 @@
-#Amazon Website Automation Project
+# Amazon Website Automation Project
 
-##This project involves automating the 'Add to Cart' functionality on the Amazon website. It includes the process of testing this functionality through automation.
+## This project involves automating the 'Add to Cart' functionality on the Amazon website. It includes the process of testing this functionality through automation.
 
-## Setup Instructions
+### Setup Instructions
 
-### Prerequisites
+#### Prerequisites
 
 - Ensure you have [Python](https://www.python.org/downloads/) installed on your system.
 - Install [PyCharm](https://www.jetbrains.com/pycharm/) for an integrated development environment.
