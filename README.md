@@ -1,4 +1,4 @@
-# Amazon Website Automation Project
+# Amazon Website Test Automation Project
 
 This project involves automating the 'Add to Cart' functionality on the Amazon website. It includes the process of testing this functionality through automation.
 
