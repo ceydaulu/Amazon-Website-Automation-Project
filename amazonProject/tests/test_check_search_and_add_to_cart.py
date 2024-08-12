@@ -107,4 +107,4 @@ class TestAmazonSearchAndCart(BaseTest):
         cart_page.is_main_header_logo_visible()
         cart_page.is_main_header_logo_clickable()
         cart_page.click_main_header_logo()
-        time.sleep(10)
+        time.sleep(3)
